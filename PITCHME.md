@@ -21,6 +21,6 @@ end and interacting with them in a uniform way regardless of the device communic
 ---
 Hono Overview from github
 
-![Hono Overview](http://www.eclipse.org/hono/images/hono_landing_page.svg)
+![Hono Overview](https://github.com/sysexcontrol/git-pitch-demo/blob/master/images/hono_landing_page.png?raw=true).
 
 
