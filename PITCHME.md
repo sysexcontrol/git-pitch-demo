@@ -7,10 +7,14 @@ end and interacting with them in a uniform way regardless of the device communic
 
 ### Eclipse Hono Microservice architecture
 
+Microservices
+
++++
 - Protocol Adapters: Handle different protocols
 - Device Registry: implements Hono's Registration API, Tenant API and Credentials API
 - AMQP 1.0 network: Connects Hono's microservices and any number of applications by a multi-tenancy
         messaging architecture
+
 
 ---
 
