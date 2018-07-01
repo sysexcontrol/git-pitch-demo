@@ -12,8 +12,7 @@ Microservices
 +++
 - Protocol Adapters: Handle different protocols
 - Device Registry: implements Hono's Registration API, Tenant API and Credentials API
-- AMQP 1.0 network: Connects Hono's microservices and any number of applications by a multi-tenancy
-        messaging architecture
+- AMQP 1.0 network: Connects Hono's microservices and any number of applications by a multi-tenancy messaging architecture
 
 
 ---
